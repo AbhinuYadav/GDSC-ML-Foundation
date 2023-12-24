@@ -1,2 +1,2 @@
 # GDSC-ML-Foundation
-Data Analytics project for GDSC ML | AI  foundation auditions
+Machine learning project for GDSC ML | AI  foundation auditions
